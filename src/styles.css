@@ -145,9 +145,10 @@ hr.custom {
 .introduction h1 {
   text-align: center;
   font-size: 46px;
-  color:white;
-  -webkit-text-stroke: 2px rgb(30, 89, 76); /* width and color */
+  color:rgb(8, 74, 89);
+  -webkit-text-stroke: 1px rgb(8, 42, 48); /* width and color */
   line-height: 200px;
+  text-transform: uppercase;
 }
 
 
@@ -158,7 +159,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(247, 223, 223);
+  background-color: rgb(199, 255, 243);
   color: white;
   text-align: center;
   padding: 5px;
