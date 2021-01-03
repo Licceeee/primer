@@ -96,7 +96,7 @@ hr.custom {
 .hero h1 {
   font-size: 40px;
   color: rgb(48, 48, 48);
-  padding-bottom: 50px;
+
 }
 /* HERO SECTION END */
 
@@ -152,7 +152,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #11151C;
+  background-color: #212D40;
   color: white;
   text-align: center;
   padding: 5px;
